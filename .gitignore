@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/moscow_places.csv
+data/places_enriched.csv
+data/search_comparison.csv
